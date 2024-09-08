@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e estou sempre em 
 
 ## Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/linkedin.com/in/renirogete/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/renirogete/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/renirogete_/?igsh=YWJmZnB5YXc5MDRp)
 
 
