@@ -1,14 +1,22 @@
 
   
-  ```python
-         print( " Hello, World! " )
+  ```java
+public class Reni {
+    public static void main(String[] args) {
+        System.out.println("Seja bem-vindo(a) ao meu GitHub 🚀");
+    }
+}
   ```
 
 </div>
 
 ### Reni Ferreira
 
-Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e estou sempre em busca de novos desafios. Formado como tecnico em Administração no Instituto Federal do Rio Grande do Sul, atualmente graduando em Sistemas de Informação na Universidade Federal de Santa Catarina (UFSC), onde percebi com meus olhos o quão vasto é o mundo computacional.
+Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e estou sempre em busca de novos desafios. Formado como tecnico em Administração no Instituto Federal do Rio Grande do Sul, e hoje curso Sistemas de Informação na UFSC, onde estou mergulhando cada vez mais no universo da computação.
+
+## Sobre mim
+Gosto de desafios e de aprender algo novo todos os dias. Meus estudos são focados em desenvolvimento backend, mas também tenho interesse por áreas como Full-Stack, cloud computing e inteligência artificial. Acredito que o código é uma forma poderosa de impactar o mundo.
+
 
 ## Conecte-se Comigo
 
